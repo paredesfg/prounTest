@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {ScrollView,View, Text, StyleSheet} from 'react-native';
+import {ScrollView, Text, StyleSheet} from 'react-native';
 import ContributorList from '../components/contributor_list';
 
 

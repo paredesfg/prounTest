@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {View, Text, StyleSheet, FlatList} from 'react-native';
+import {View, Text, FlatList} from 'react-native';
 import Api from '../../utils/api';
 import ItemContributor from './item-contributor';
 import AsyncStorage from '@react-native-community/async-storage';
