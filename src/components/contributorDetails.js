@@ -63,10 +63,7 @@ class ContributorDetails extends Component{
 
 const styles= StyleSheet.create({
     container: {
-        //flexDirection: 'row',
         flex: 1,
-        //justifyContent: 'space-between',
-        //marginLeft: 20,
         marginTop: 7,
         paddingBottom: 7,
         alignItems: 'center'
@@ -83,17 +80,14 @@ const styles= StyleSheet.create({
         color: '#494949',
         fontSize: 16,
         paddingLeft:10
-       //flex: 1,
     } ,
     title:{
         color: '#494949',
         fontSize: 16,
         paddingLeft:10,
         width: 80,
-       //flex: 1,
     } ,
     rowTable:{
-        //flex: 1,
         flexDirection: 'row',
         padding: 5,
     }
